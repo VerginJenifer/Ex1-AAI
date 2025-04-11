@@ -1,5 +1,5 @@
-<H3> Name </H3>
-<H3>Register No.</H3>
+<H3> Name D VERGIN JENIFER</H3>
+<H3>Register No.212223240174</H3>
 <H3> Experiment 1</H3>
 <H3>DATE:</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
